@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "accounting-service-263b0",
+    "staging": "peakflo"
+  }
+}
